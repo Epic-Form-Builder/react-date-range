@@ -1,6 +1,6 @@
-@use 'components/Calendar/index.scss';
-@use 'components/DateRange/index.scss';
-@use 'components/DateInput/index.scss';
-@use 'components/DayCell/index.scss';
-@use 'components/DateRangePicker/index.scss';
-@use 'components/DefinedRange/index.scss';
+@use 'components/Calendar/index.scss' as *;
+@use 'components/DateRange/index.scss' as *;
+@use 'components/DateInput/index.scss' as *;
+@use 'components/DayCell/index.scss' as *;
+@use 'components/DateRangePicker/index.scss' as *;
+@use 'components/DefinedRange/index.scss' as *;
